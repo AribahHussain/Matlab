@@ -4,7 +4,9 @@ This project provides a MATLAB-based solution for accurately and efficiently spl
 The primary goal of this application is to automate the process of dividing costs by accounting for individual shares, additional charges (such as tax and tips), and ensuring transparency in the final amount each person owes. It reduces manual calculation errors and simplifies group financial management through a systematic approach.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------------------CODE----------------------------------------------------------------------------------------------
+
+
+
 Enhanced Bill Splitter Application
 disp('Welcome to the Bill Splitter Application!');
 totalBill = input('Enter the total bill amount (in rupees): ');
